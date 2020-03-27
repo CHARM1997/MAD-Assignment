@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="number_1">Number 1 :</string>
+    <string name="number_2">Number 2 :</string>
+    <string name="one">one</string>
+    <string name="two">two</string>
+</resources>
